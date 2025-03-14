@@ -2,7 +2,6 @@
 
 - 🔭 I'm frontend engineer and focus on backend skill
 - 🌱 I’m currently learning English
-- 💼 I’m looking for job
 - 📫 How to reach me: alal2al@hotmail.com 
 
 ### Technology Stack
